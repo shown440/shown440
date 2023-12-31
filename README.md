@@ -1,3 +1,5 @@
+![logo](https://github.com/shown440/shown440/blob/main/LinkedIn-Cover(2).png)
+
 <h1 align="center">Hi 👋, I'm SHIFULLAH</h1>
 <h3 align="center">Passionate Full-Stack Python Developer | Expert in Django, Express.js, Flask, Angular and Node.js |
     ML | DL | Empowering Asia and Africa with Technological Innovations to Enhance Disaster Resilience</h3>
