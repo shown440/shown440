@@ -4,7 +4,6 @@
 <h3 align="center">Passionate Full-Stack Python Developer | Expert in Django, Express.js, Flask, Angular and Node.js |
     ML | DL | Empowering Asia and Africa with Technological Innovations to Enhance Disaster Resilience</h3>
 
-<img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" alt="coding"  style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shown440&label=Profile%20views&color=0e75b6&style=flat"
         alt="shown440" /> </p>
@@ -16,7 +15,7 @@
             src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h1 align="left">- 💬 Ask me about:</h1>
-</br>**Enthusiastic Full-stack Python Developer | Django Aficionado | Innovator in Code 
+</br><h3 align="left">Enthusiastic Full-stack Python Developer | Django Aficionado | Innovator in Code </h3>
 
 </br></br>Welcome to my
 LinkedIn profile! I am MD Shifullah, a passionate and dedicated Full-stack Python Developer with over 5 years of
@@ -72,6 +71,7 @@ create something amazing together!
             alt="shown440" height="200" width="210" /></a>
 </p>
 
+</br>
 <h1 align="left">Languages and Tools:</h1>
 <p align="left"> 
     <a href="https://angular.io" target="_blank" rel="noreferrer"> <img
@@ -140,3 +140,5 @@ create something amazing together!
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shown440&" alt="shown440" /></p>
+
+<img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" alt="coding"  style="width: 100vw; margin: auto; display: block;">
