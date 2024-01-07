@@ -16,27 +16,48 @@
             src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h1 align="left">- 💬 Ask me about:</h1>
-- 💬 Ask me about </br>**Enthusiastic Full-stack Python Developer | Django Aficionado | Innovator in Code </br>Welcome to my
+</br>**Enthusiastic Full-stack Python Developer | Django Aficionado | Innovator in Code 
+
+</br></br>Welcome to my
 LinkedIn profile! I am MD Shifullah, a passionate and dedicated Full-stack Python Developer with over 5 years of
 specialized expertise in crafting robust solutions using Django and Django RESTful. My journey extends beyond coding; I
-actively contribute to product development and bring a proactive approach to problem-solving. </br></br>Key Highlights: </br>🚀
-Proficient in Python (Django, RESTful API, Flask) and Node.js (Express.js). 🌐 Skilled in crafting dynamic web
-applications and RESTful APIs. 🎨 Experience in front-end development with Angular, HTML5, CSS3, and Bootstrap. 📊
-Knowledgeable in database technologies: Oracle 11g 12c, PostgreSQL. 🧠 Well-versed in machine learning, Java (SE, Spring
-Boot), and more. Professional Experience: In my current role at RIMES, I play a pivotal role as a System Developer,
-driving innovation in Django, R&D, and Angular. Previously, I contributed significantly to mPower Social Enterprises
-Limited, adding value through Python (Django) and Node.js development. Education: 🎓 M Sc in Applied Statistics and Data
-Science, Jahangirnagar University, 2023. 🎓 B Sc in Computer Science and Engineering, Bangladesh University of Business
-and Technology, 2019. Projects: I've spearheaded diverse projects, including the Next Generation SESAME, FAO Monitoring
-Reporting and Visualization, and Gobadi e-Hatt. Each project reflects my commitment to excellence and innovation.
-Skills: 💻 Full-Stack Development: Python, Django, Flask, Node.js, Express.js. 🛢️ Database: Oracle, PostgreSQL. 🔄
-Version Control: GitHub, Bitbucket, SVN. 🚀 Project Management: JIRA, Trello. Let's Connect: I thrive on collaboration
-and look forward to connecting with professionals, enthusiasts, and innovators in the tech space. Whether you're
-interested in discussing the latest trends in technology, exploring collaboration opportunities, or simply sharing
-ideas, let's connect and create something amazing together! Ready to elevate your team's success through innovative
-solutions and collaborative efforts.**
+actively contribute to product development and bring a proactive approach to problem-solving. 
 
-- 📫 How to reach me **ahmed.shifullah@gmail.com**
+</br></br>Key Highlights: 
+</br>🚀 Proficient in Python (Django, RESTful API, Flask) and Node.js (Express.js). 
+</br>🌐 Skilled in crafting dynamic web applications and RESTful APIs. 
+</br>🎨 Experience in front-end development with Angular, HTML5, CSS3, and Bootstrap. 
+</br>📊 Knowledgeable in database technologies: Oracle 11g 12c, PostgreSQL. 
+</br>🧠 Well-versed in machine learning, Java (SE, Spring Boot), and more. 
+
+</br></br>Professional Experience: 
+</br></br>In my current role at RIMES, I play a pivotal role as a System Developer,
+driving innovation in Django, R&D, and Angular. Previously, I contributed significantly to mPower Social Enterprises
+Limited, adding value through Python (Django) and Node.js development. 
+
+</br></br>Education: 
+</br>🎓 M Sc in Applied Statistics and Data Science, Jahangirnagar University, 2023. 
+</br>🎓 B Sc in Computer Science and Engineering, Bangladesh University of Business
+and Technology, 2019. 
+
+</br></br>Projects: 
+</br>I've spearheaded diverse projects, including the Next Generation SESAME, FAO Monitoring
+Reporting and Visualization, and Gobadi e-Hatt. Each project reflects my commitment to excellence and innovation.
+
+</br></br>Skills: 
+</br>💻 Full-Stack Development: Python, Django, Flask, Node.js, Express.js. 
+</br>🛢️ Database: Oracle, PostgreSQL. 
+</br>🔄 Version Control: GitHub, Bitbucket, SVN. 
+</br>🚀 Project Management: JIRA, Trello. 
+
+</br></br>Let's Connect: 
+</br>I thrive on collaboration and look forward to connecting with professionals, enthusiasts, and innovators in the tech space. Whether you're
+interested in discussing the latest trends in technology, exploring collaboration opportunities, or simply sharing ideas, let's connect and 
+create something amazing together! 
+
+</br></br>Ready to elevate your team's success through innovative solutions and collaborative efforts.**
+
+<h4 align="left">- 📫 How to reach me **ahmed.shifullah@gmail.com**</h4>
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">
@@ -51,7 +72,7 @@ solutions and collaborative efforts.**
             alt="shown440" height="200" width="210" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h1 align="left">Languages and Tools:</h1>
 <p align="left"> 
     <a href="https://angular.io" target="_blank" rel="noreferrer"> <img
             src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
