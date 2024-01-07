@@ -41,7 +41,7 @@ solutions and collaborative efforts.**
 <p align="left">
     <a href="https://linkedin.com/in/shown440" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="shown440" height="50" width="60" /></a>
+            alt="shown440" height="100" width="110" /></a>
     <a href="https://stackoverflow.com/users/9535966" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
             alt="9535966" height="30" width="40" /></a>
