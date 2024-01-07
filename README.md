@@ -4,6 +4,7 @@
 <h3 align="center">Passionate Full-Stack Python Developer | Expert in Django, Express.js, Flask, Angular and Node.js |
     ML | DL | Empowering Asia and Africa with Technological Innovations to Enhance Disaster Resilience</h3>
 
+<img align="center" alt="coding" width="100vw" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 <img align="center" alt="coding" width="400px" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shown440&label=Profile%20views&color=0e75b6&style=flat"
