@@ -16,7 +16,7 @@
             src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 💬 Ask me about **Enthusiastic Full-stack Python Developer | Django Aficionado | Innovator in Code Welcome to my
-LinkedIn profile! I am MD Shifullah, a passionate and dedicated Full-stack Python Developer with over 5 years of
+LinkedIn profile! </br>I am MD Shifullah, a passionate and dedicated Full-stack Python Developer with over 5 years of
 specialized expertise in crafting robust solutions using Django and Django RESTful. My journey extends beyond coding; I
 actively contribute to product development and bring a proactive approach to problem-solving. Key Highlights: 🚀
 Proficient in Python (Django, RESTful API, Flask) and Node.js (Express.js). 🌐 Skilled in crafting dynamic web
