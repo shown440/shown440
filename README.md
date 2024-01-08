@@ -23,7 +23,7 @@ actively contribute to product development and bring a proactive approach to pro
 
 <br>
 <h3 align="left">Key Highlights: </h3>
-<br>🚀 Proficient in Python (Django, RESTful API, Flask) and Node.js (Express.js). 
+<br>🚀 Proficient in Python (Django, Django REST Framework, RESTful API, Flask) and Node.js (Express.js). 
 <br>🌐 Skilled in crafting dynamic web applications and RESTful APIs. 
 <br>🎨 Experience in front-end development with Angular, HTML5, CSS3, and Bootstrap. 
 <br>📊 Knowledgeable in database technologies: Oracle 11g 12c, PostgreSQL. 
@@ -34,10 +34,10 @@ actively contribute to product development and bring a proactive approach to pro
 In my current role at RIMES, I play a pivotal role as a System Developer, driving innovation in Django, R&D, and Angular. 
 Previously, I contributed significantly to mPower Social Enterprises Limited, adding value through Python (Django) and Node.js development. 
 
-
+<br>
 <h3 align="left">Education: </h3>
 🎓 M Sc in Applied Statistics and Data Science, Jahangirnagar University, 2023. 
-🎓 B Sc in Computer Science and Engineering, Bangladesh University of Business and Technology, 2019. 
+<br>🎓 B Sc in Computer Science and Engineering, Bangladesh University of Business and Technology, 2019. 
 
 
 <h3 align="left">Projects: </h3>
