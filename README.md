@@ -53,13 +53,13 @@ Reporting and Visualization, and Gobadi e-Hatt. Each project reflects my commitm
 
 <br><br>
 <h3 align="left">Let's Connect: </h3>
-</br>I thrive on collaboration and look forward to connecting with professionals, enthusiasts, and innovators in the tech space. Whether you're
+I thrive on collaboration and look forward to connecting with professionals, enthusiasts, and innovators in the tech space. Whether you're
 interested in discussing the latest trends in technology, exploring collaboration opportunities, or simply sharing ideas, let's connect and 
 create something amazing together! 
 
-Ready to elevate your team's success through innovative solutions and collaborative efforts.**
+Ready to elevate your team's success through innovative solutions and collaborative efforts.
 
-<h3 align="left">- 📫 How to reach me ahmed.shifullah@gmail.com</h3>
+<h3 align="left">- 📫 How to reach me <a href="mailto:ahmed.shifullah@gmail.com">ahmed.shifullah@gmail.com</a></h3>
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">
