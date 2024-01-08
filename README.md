@@ -59,7 +59,9 @@ create something amazing together!
 
 Ready to elevate your team's success through innovative solutions and collaborative efforts.
 
-<h3 align="left">- 📫 How to reach me <a href="mailto:ahmed.shifullah@gmail.com">ahmed.shifullah@gmail.com</a></h3>
+<h3 align="left">- 📫 How to reach me: I always available in Email and LinkedIn </h3>
+<h3 align="left"> Email to me: <a href="mailto:ahmed.shifullah@gmail.com">ahmed.shifullah@gmail.com</a></h3>
+<h3 align="left"> Connect to me in LinkedIn: <a href="https://www.linkedin.com/in/shown440/" target="_blank">https://www.linkedin.com/in/shown440/</a></h3>
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">
