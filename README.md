@@ -51,8 +51,8 @@ Reporting and Visualization, and Gobadi e-Hatt. Each project reflects my commitm
 <br>🔄 Version Control: GitHub, Bitbucket, SVN. 
 <br>🚀 Project Management: JIRA, Trello, Redmine.
 
-
-Let's Connect: 
+<br><br>
+<h3 align="left">Let's Connect: </h3>
 </br>I thrive on collaboration and look forward to connecting with professionals, enthusiasts, and innovators in the tech space. Whether you're
 interested in discussing the latest trends in technology, exploring collaboration opportunities, or simply sharing ideas, let's connect and 
 create something amazing together! 
