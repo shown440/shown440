@@ -21,15 +21,15 @@ Welcome to my LinkedIn profile! I am MD Shifullah, a passionate and dedicated Fu
 specialized expertise in crafting robust solutions using Django and Django RESTful. My journey extends beyond coding; I
 actively contribute to product development and bring a proactive approach to problem-solving. 
 
-
+<br>
 <h3 align="left">Key Highlights: </h3>
-🚀 Proficient in Python (Django, RESTful API, Flask) and Node.js (Express.js). 
-🌐 Skilled in crafting dynamic web applications and RESTful APIs. 
-🎨 Experience in front-end development with Angular, HTML5, CSS3, and Bootstrap. 
-📊 Knowledgeable in database technologies: Oracle 11g 12c, PostgreSQL. 
-🧠 Well-versed in machine learning, Java (SE, Spring Boot), and more. 
+<br>🚀 Proficient in Python (Django, RESTful API, Flask) and Node.js (Express.js). 
+<br>🌐 Skilled in crafting dynamic web applications and RESTful APIs. 
+<br>🎨 Experience in front-end development with Angular, HTML5, CSS3, and Bootstrap. 
+<br>📊 Knowledgeable in database technologies: Oracle 11g 12c, PostgreSQL. 
+<br>🧠 Well-versed in machine learning, Java (SE, Spring Boot), and more. 
 
-
+<br>
 <h3 align="left">Professional Experience: </h3>
 In my current role at RIMES, I play a pivotal role as a System Developer, driving innovation in Django, R&D, and Angular. 
 Previously, I contributed significantly to mPower Social Enterprises Limited, adding value through Python (Django) and Node.js development. 
