@@ -23,33 +23,33 @@ actively contribute to product development and bring a proactive approach to pro
 
 <br>
 <h3 align="left">Key Highlights: </h3>
-<br>🚀 Proficient in Python (Django, Django REST Framework, RESTful API, Flask) and Node.js (Express.js). 
+🚀 Proficient in Python (Django, Django REST Framework, RESTful API, Flask) and Node.js (Express.js). 
 <br>🌐 Skilled in crafting dynamic web applications and RESTful APIs. 
 <br>🎨 Experience in front-end development with Angular, HTML5, CSS3, and Bootstrap. 
 <br>📊 Knowledgeable in database technologies: Oracle 11g 12c, PostgreSQL. 
 <br>🧠 Well-versed in machine learning, Java (SE, Spring Boot), and more. 
 
-<br>
+<br><br>
 <h3 align="left">Professional Experience: </h3>
 In my current role at RIMES, I play a pivotal role as a System Developer, driving innovation in Django, R&D, and Angular. 
 Previously, I contributed significantly to mPower Social Enterprises Limited, adding value through Python (Django) and Node.js development. 
 
-<br>
+<br><br>
 <h3 align="left">Education: </h3>
 🎓 M Sc in Applied Statistics and Data Science, Jahangirnagar University, 2023. 
 <br>🎓 B Sc in Computer Science and Engineering, Bangladesh University of Business and Technology, 2019. 
 
-
+<br><br>
 <h3 align="left">Projects: </h3>
 I've spearheaded diverse projects, including the Next Generation SESAME, FAO Monitoring
 Reporting and Visualization, and Gobadi e-Hatt. Each project reflects my commitment to excellence and innovation.
 
-
+<br><br>
 <h3 align="left">Skills: </h3>
-💻 Full-Stack Development: Python, Django, Flask, Node.js, Express.js. 
-🛢️ Database: Oracle, PostgreSQL. 
-🔄 Version Control: GitHub, Bitbucket, SVN. 
-🚀 Project Management: JIRA, Trello. 
+💻 Full-Stack Development: Python, Django, Django REST Framework, Flask, Node.js, Express.js. 
+<br>🛢️ Database: Oracle, PostgreSQL. 
+<br>🔄 Version Control: GitHub, Bitbucket, SVN. 
+<br>🚀 Project Management: JIRA, Trello, Redmine.
 
 
 Let's Connect: 
