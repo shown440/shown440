@@ -111,6 +111,9 @@ Ready to elevate your team's success through innovative solutions and collaborat
     <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
         <img src="https://www.django-rest-framework.org/img/logo.png" alt="Django REST Framework" width="110" height="100" title="Django REST Framework"/>
     </a>
+    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+        <img src="https://en.wikipedia.org/wiki/File:Flask_logo.svg" alt="flask" width="110" height="100" title="Flask"/>
+    </a>
     <a href="#" target="_blank" rel="noreferrer">
         <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230630120346/What-is-REST-API.png" 
         alt="RESTful API" width="110" height="100" title="RESTful API"/>
@@ -129,9 +132,6 @@ Ready to elevate your team's success through innovative solutions and collaborat
     </a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="110" height="100" title="Figma"/>
-    </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="110" height="100" title="Flask"/>
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="110" height="100" title="Git"/>
