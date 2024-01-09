@@ -115,7 +115,7 @@ Ready to elevate your team's success through innovative solutions and collaborat
         <img src="https://github.com/shown440/shown440/blob/main/Flask.png" alt="flask" width="110" height="100" title="Flask" />
     </a>
     <a href="#" target="_blank" rel="noreferrer" style="margin: 5px;">
-        <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230630120346/What-is-REST-API.png" 
+        <img src="https://github.com/shown440/shown440/blob/main/REST-API.png" 
         alt="RESTful API" width="110" height="100" title="RESTful API" />
     </a>
     <a href="https://angular.io" target="_blank" rel="noreferrer" style="margin: 5px;">
