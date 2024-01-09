@@ -118,7 +118,10 @@ Ready to elevate your team's success through innovative solutions and collaborat
         <img src="https://github.com/shown440/shown440/blob/main/REST-API.png" alt="RESTful API" width="150" height="100" title="RESTful API" />
     </a>
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
-        <img src="https://github.com/shown440/shown440/blob/main/Flask.png" alt="Express.js" width="150" height="100" title="Express.js" />
+        <img src="https://github.com/shown440/shown440/blob/main/node_js.png" alt="Node.js" width="150" height="100" title="Node.js" />
+    </a>
+    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
+        <img src="https://github.com/shown440/shown440/blob/main/express_js.png" alt="Express.js" width="150" height="100" title="Express.js" />
     </a>
     <a href="https://angular.io" target="_blank" rel="noreferrer" style="margin: 5px;">
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="110" height="100" title="Angular" />
