@@ -111,6 +111,10 @@ Ready to elevate your team's success through innovative solutions and collaborat
     <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
         <img src="https://www.django-rest-framework.org/img/logo.png" alt="Django REST Framework" width="110" height="100" title="Django REST Framework"/>
     </a>
+    <a href="#" target="_blank" rel="noreferrer">
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fhow-design-rest-api-md-imran-ali&psig=AOvVaw2NKV2ByfMzMDFPlrmUVSme&ust=1704868326433000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNC00MzXz4MDFQAAAAAdAAAAABAI" 
+        alt="RESTful API" width="110" height="100" title="RESTful API"/>
+    </a>
     <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="110" height="100" title="Angular"/>
     </a>
