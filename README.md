@@ -112,7 +112,7 @@ Ready to elevate your team's success through innovative solutions and collaborat
         <img src="https://www.django-rest-framework.org/img/logo.png" alt="Django REST Framework" width="110" height="100" title="Django REST Framework"/>
     </a>
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/460px-Flask_logo.svg.png" alt="flask" width="110" height="100" title="Flask"/>
+        <img src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png" alt="flask" width="110" height="100" title="Flask"/>
     </a>
     <a href="#" target="_blank" rel="noreferrer">
         <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230630120346/What-is-REST-API.png" 
