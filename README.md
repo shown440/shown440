@@ -107,31 +107,27 @@ Ready to elevate your team's success through innovative solutions and collaborat
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" class="card-img-top" alt="python" style="max-width: 110px; height: 100px;">
         <div class="card-body">
             <h5 class="card-title">Python</h5>
-            <p class="card-text">Python is a high-level, interpreted programming language with dynamic semantics and object-oriented programming capabilities.</p>
             <a href="https://www.python.org" target="_blank" rel="noreferrer" class="btn btn-primary" style="margin: 5px;">Learn More</a>
         </div>
     </div>
     <div class="card" style="flex: 0 0 calc(25% - 20px);">
         <img src="https://cdn.worldvectorlogo.com/logos/django.svg" class="card-img-top" alt="django" style="max-width: 110px; height: 100px;">
         <div class="card-body">
-            <h5 class="card-title">Django</h5>
-            <p class="card-text">Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design.</p>
+            <h5 class="card-title">Django</h5> 
             <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer" class="btn btn-primary" style="margin: 5px;">Learn More</a>
         </div>
     </div>
     <div class="card" style="flex: 0 0 calc(25% - 20px);">
         <img src="https://www.django-rest-framework.org/img/logo.png" class="card-img-top" alt="Django REST Framework" style="max-width: 110px; height: 100px;">
         <div class="card-body">
-            <h5 class="card-title">Django REST Framework</h5>
-            <p class="card-text">Django REST Framework is a powerful and flexible toolkit for building Web APIs using Django.</p>
+            <h5 class="card-title">Django REST Framework</h5> 
             <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer" class="btn btn-primary" style="margin: 5px;">Learn More</a>
         </div>
     </div>
     <div class="card" style="flex: 0 0 calc(25% - 20px);">
         <img src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png" class="card-img-top" alt="flask" style="max-width: 110px; height: 100px;">
         <div class="card-body">
-            <h5 class="card-title">Flask</h5>
-            <p class="card-text">Flask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications.</p>
+            <h5 class="card-title">Flask</h5> 
             <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer" class="btn btn-primary" style="margin: 5px;">Learn More</a>
         </div>
     </div>
