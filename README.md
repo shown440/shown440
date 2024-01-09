@@ -17,32 +17,36 @@
 <h1 align="left">- 💬 Ask me about:</h1>
 <h3 align="left">Enthusiastic Full-stack Python Developer | Django Aficionado | Innovator in Code </h3>
 
-Welcome to my LinkedIn profile! I am MD Shifullah, a passionate and dedicated Full-stack Python Developer with over 5 years of
+Welcome to my LinkedIn profile! I am MD Shifullah, a passionate and dedicated Full-stack Python Developer with over 5
+years of
 specialized expertise in crafting robust solutions using Django and Django RESTful. My journey extends beyond coding; I
-actively contribute to product development and bring a proactive approach to problem-solving. 
+actively contribute to product development and bring a proactive approach to problem-solving.
 
 <br>
 <h3 align="left">Key Highlights: </h3>
-🚀 Proficient in Python (Django, Django REST Framework, RESTful API, Flask) and Node.js (Express.js). 
-<br>🌐 Skilled in crafting dynamic web applications and RESTful APIs. 
-<br>🎨 Experience in front-end development with Angular, HTML5, CSS3, and Bootstrap. 
-<br>📊 Knowledgeable in database technologies: Oracle 11g 12c, PostgreSQL. 
-<br>🧠 Well-versed in machine learning, Java (SE, Spring Boot), and more. 
+🚀 Proficient in Python (Django, Django REST Framework, RESTful API, Flask) and Node.js (Express.js).
+<br>🌐 Skilled in crafting dynamic web applications and RESTful APIs.
+<br>🎨 Experience in front-end development with Angular, HTML5, CSS3, and Bootstrap.
+<br>📊 Knowledgeable in database technologies: Oracle 11g 12c, PostgreSQL.
+<br>🧠 Well-versed in machine learning, Java (SE, Spring Boot), and more.
 
 <br><br>
 <h3 align="left">Professional Experience: </h3>
-In my current role at RIMES, I play a pivotal role as a System Developer, driving innovation in Django, R&D, and Angular. 
-Previously, I contributed significantly to mPower Social Enterprises Limited, adding value through Python (Django) and Node.js development. 
+In my current role at RIMES, I play a pivotal role as a System Developer, driving innovation in Django, R&D, and
+Angular.
+Previously, I contributed significantly to mPower Social Enterprises Limited, adding value through Python (Django) and
+Node.js development.
 
 <br><br>
 <h3 align="left">Education: </h3>
-🎓 M Sc in Applied Statistics and Data Science, Jahangirnagar University, 2023. 
-<br>🎓 B Sc in Computer Science and Engineering, Bangladesh University of Business and Technology, 2019. 
+🎓 M Sc in Applied Statistics and Data Science, Jahangirnagar University, 2023.
+<br>🎓 B Sc in Computer Science and Engineering, Bangladesh University of Business and Technology, 2019.
 
 <br><br>
 <h3 align="left">Projects: </h3>
-I've spearheaded diverse projects, including: 
-<br>🌦️ Next Generation SESAME (Agriculture Based Decision Support System for stakeholders of RIMES members and affiliated countries)
+I've spearheaded diverse projects, including:
+<br>🌦️ Next Generation SESAME (Agriculture Based Decision Support System for stakeholders of RIMES members and
+affiliated countries)
 <br>💻 FAO Monitoring Reporting and Visualization (MIS for World Food and Agriculture Organization)
 <br>🛒 Gobadi e-Hatt (eCommerce site for animal sales)
 <br>📊 SHUFOLA (Smart farming app for farmers)
@@ -61,23 +65,26 @@ I've spearheaded diverse projects, including:
 
 <br><br>
 <h3 align="left">Skills: </h3>
-💻 Full-Stack Development: Python, Django, Django REST Framework, Flask, Node.js, Express.js. 
-<br>🛢️ Database: Oracle, PostgreSQL. 
-<br>🔄 Version Control: GitHub, Bitbucket, SVN. 
+💻 Full-Stack Development: Python, Django, Django REST Framework, Flask, Node.js, Express.js.
+<br>🛢️ Database: Oracle, PostgreSQL.
+<br>🔄 Version Control: GitHub, Bitbucket, SVN.
 <br>🚀 Project Management: JIRA, Trello, Redmine.
 
 <br><br>
 <h3 align="left">Let's Connect: </h3>
-I thrive on collaboration and look forward to connecting with professionals, enthusiasts, and innovators in the tech space. Whether you're
-interested in discussing the latest trends in technology, exploring collaboration opportunities, or simply sharing ideas, let's connect and 
-create something amazing together! 
+I thrive on collaboration and look forward to connecting with professionals, enthusiasts, and innovators in the tech
+space. Whether you're
+interested in discussing the latest trends in technology, exploring collaboration opportunities, or simply sharing
+ideas, let's connect and
+create something amazing together!
 
 Ready to elevate your team's success through innovative solutions and collaborative efforts.
 
 <br>
 <h3 align="left">- 📫 How to reach me: (Always available via Email and LinkedIn) </h3>
 <h3 align="left"> Email to me: <a href="mailto:ahmed.shifullah@gmail.com">ahmed.shifullah@gmail.com</a></h3>
-<h3 align="left"> Connect to me in LinkedIn: <a href="https://www.linkedin.com/in/shown440/" target="_blank">https://www.linkedin.com/in/shown440/</a></h3>
+<h3 align="left"> Connect to me in LinkedIn: <a href="https://www.linkedin.com/in/shown440/"
+        target="_blank">https://www.linkedin.com/in/shown440/</a></h3>
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">
@@ -94,7 +101,7 @@ Ready to elevate your team's success through innovative solutions and collaborat
 
 </br>
 <h1 align="left">Languages and Tools:</h1>
-<p align="left"> 
+<p align="left">
     <a href="https://angular.io" target="_blank" rel="noreferrer"> <img
             src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
     </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
@@ -148,7 +155,7 @@ Ready to elevate your team's success through innovative solutions and collaborat
             src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /> </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-            alt="typescript" width="40" height="40" /> </a> 
+            alt="typescript" width="40" height="40" /> </a>
 </p>
 
 <p><img align="left"
@@ -162,4 +169,5 @@ Ready to elevate your team's success through innovative solutions and collaborat
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shown440&" alt="shown440" /></p>
 
-<img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" alt="coding"  style="width: 100vw; margin: auto; display: block;">
+<img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" alt="coding"
+    style="width: 100vw; margin: auto; display: block;">
