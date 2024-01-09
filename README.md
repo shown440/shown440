@@ -106,7 +106,7 @@ Ready to elevate your team's success through innovative solutions and collaborat
         <img src="https://github.com/shown440/shown440/blob/main/Python.png" alt="python" width="150" height="100" title="Python" />
     </a>
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="110" height="100" title="Django" />
+        <img src="https://github.com/shown440/shown440/blob/main/django.jpg" alt="django" width="150" height="100" title="Django" />
     </a>
     <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer" style="margin: 5px;">
         <img src="https://www.django-rest-framework.org/img/logo.png" alt="Django REST Framework" width="110" height="100" title="Django REST Framework" />
