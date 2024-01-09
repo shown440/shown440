@@ -102,84 +102,84 @@ Ready to elevate your team's success through innovative solutions and collaborat
 </br>
 <h1 align="left">Languages and Tools:</h1>
 <p align="left">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="110" height="100" title="Python" style="margin: 5px;"/>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin: 5px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="110" height="100" title="Python" />
     </a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="110" height="100" title="Django" style="margin: 5px;"/>
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
+        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="110" height="100" title="Django" />
     </a>
-    <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.django-rest-framework.org/img/logo.png" alt="Django REST Framework" width="110" height="100" title="Django REST Framework" style="margin: 5px;"/>
+    <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer" style="margin: 5px;">
+        <img src="https://www.django-rest-framework.org/img/logo.png" alt="Django REST Framework" width="110" height="100" title="Django REST Framework" />
     </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-        <img src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png" alt="flask" width="110" height="100" title="Flask" style="margin: 5px;"/>
+    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
+        <img src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png" alt="flask" width="110" height="100" title="Flask" />
     </a>
-    <a href="#" target="_blank" rel="noreferrer">
+    <a href="#" target="_blank" rel="noreferrer" style="margin: 5px;">
         <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230630120346/What-is-REST-API.png" 
-        alt="RESTful API" width="110" height="100" title="RESTful API" style="margin: 5px;"/>
+        alt="RESTful API" width="110" height="100" title="RESTful API" />
     </a>
-    <a href="https://angular.io" target="_blank" rel="noreferrer">
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="110" height="100" title="Angular" style="margin: 5px;"/>
+    <a href="https://angular.io" target="_blank" rel="noreferrer" style="margin: 5px;">
+        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="110" height="100" title="Angular" />
     </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="110" height="100" title="Bootstrap" style="margin: 5px;"/>
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="margin: 5px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="110" height="100" title="Bootstrap" />
     </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="110" height="100" title="CSS3" style="margin: 5px;"/>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="margin: 5px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="110" height="100" title="CSS3" />
     </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="margin: 5px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="110" height="100" title="Express" style="margin: 5px;"/>
     </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="110" height="100" title="Figma" style="margin: 5px;"/>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="110" height="100" title="Figma" />
     </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="110" height="100" title="Git" style="margin: 5px;"/>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="110" height="100" title="Git" />
     </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="110" height="100" title="HTML5" style="margin: 5px;"/>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="margin: 5px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="110" height="100" title="HTML5" />
     </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="110" height="100" title="Java" style="margin: 5px;"/>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer" style="margin: 5px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="110" height="100" title="Java" />
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="110" height="100" title="JavaScript" style="margin: 5px;"/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin: 5px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="110" height="100" title="JavaScript" />
     </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="110" height="100" title="Linux" style="margin: 5px;"/>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="margin: 5px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="110" height="100" title="Linux" />
     </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="110" height="100" title="MySQL" style="margin: 5px;"/>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="110" height="100" title="MySQL" />
     </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="110" height="100" title="Node.js" style="margin: 5px;"/>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="margin: 5px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="110" height="100" title="Node.js" />
     </a>
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="110" height="100" title="OpenCV" style="margin: 5px;"/>
+    <a href="https://opencv.org/" target="_blank" rel="noreferrer" style="margin: 5px;">
+        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="110" height="100" title="OpenCV" />
     </a>
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="110" height="100" title="Oracle" style="margin: 5px;"/>
+    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="110" height="100" title="Oracle" />
     </a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="110" height="100" title="Pandas" style="margin: 5px;"/>
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="margin: 5px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="110" height="100" title="Pandas" />
     </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="110" height="100" title="PostgreSQL" style="margin: 5px;"/>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="margin: 5px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="110" height="100" title="PostgreSQL" />
     </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="110" height="100" title="Postman" style="margin: 5px;"/>
+    <a href="https://postman.com" target="_blank" rel="noreferrer" style="margin: 5px;">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="110" height="100" title="Postman" />
     </a>
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="110" height="100" title="Scikit Learn" style="margin: 5px;"/>
+    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" style="margin: 5px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="110" height="100" title="Scikit Learn" />
     </a>
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="110" height="100" title="Seaborn" style="margin: 5px;"/>
+    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" style="margin: 5px;">
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="110" height="100" title="Seaborn" />
     </a>
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="110" height="100" title="SQLite" style="margin: 5px;"/>
+    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer" style="margin: 5px;">
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="110" height="100" title="SQLite" />
     </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="110" height="100" title="TypeScript" style="margin: 5px;"/>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="margin: 5px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="110" height="100" title="TypeScript" />
     </a>
 </p>
 
