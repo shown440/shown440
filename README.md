@@ -114,8 +114,6 @@ Ready to elevate your team's success through innovative solutions and collaborat
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
             alt="css3" width="110" height="100" /> 
     </a> 
-
-
     <a href="https://www.djangoproject.com/" target="_blank"
         rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="110"
             height="100" /> 
@@ -128,8 +126,6 @@ Ready to elevate your team's success through innovative solutions and collaborat
         rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="110"
             height="100" /> 
     </a> 
-
-    
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="110"
             height="100" /> 
@@ -141,8 +137,6 @@ Ready to elevate your team's success through innovative solutions and collaborat
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
             alt="html5" width="110" height="100" /> 
     </a> 
-    
-    
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
             width="110" height="100" /> 
@@ -157,8 +151,6 @@ Ready to elevate your team's success through innovative solutions and collaborat
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
             width="110" height="100" /> 
     </a> 
-    
-    
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
             alt="mysql" width="110" height="100" /> 
@@ -170,8 +162,6 @@ Ready to elevate your team's success through innovative solutions and collaborat
     <a href="https://opencv.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="110" height="100" /> 
     </a>
-    
-    
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
             alt="oracle" width="110" height="100" /> 
@@ -186,8 +176,6 @@ Ready to elevate your team's success through innovative solutions and collaborat
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
             alt="postgresql" width="110" height="100" /> 
     </a> 
-    
-    
     <a href="https://postman.com" target="_blank"
         rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"
             width="110" height="100" /> 
@@ -200,8 +188,6 @@ Ready to elevate your team's success through innovative solutions and collaborat
         rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
             alt="scikit_learn" width="110" height="100" /> 
     </a> 
-    
-    
     <a href="https://seaborn.pydata.org/" target="_blank"
         rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="110"
             height="100" /> 
