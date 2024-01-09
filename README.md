@@ -41,8 +41,23 @@ Previously, I contributed significantly to mPower Social Enterprises Limited, ad
 
 <br><br>
 <h3 align="left">Projects: </h3>
-I've spearheaded diverse projects, including the Next Generation SESAME, FAO Monitoring
-Reporting and Visualization, and Gobadi e-Hatt. Each project reflects my commitment to excellence and innovation.
+I've spearheaded diverse projects, including: 
+Next Generation SESAME (Agriculture Based Decision Support System for stakeholders of RIMES members and affiliated countries)
+FAO Monitoring Reporting and Visualization (MIS for World Food and Agriculture Organization)
+Gobadi e-Hatt (eCommerce site for animal sales)
+SHUFOLA (Smart farming app for farmers)
+Songo-ICCO (eCommerce site rural hawkers)
+GIZ Heal (Applications Management System)
+Training Management Platform for Relief International (USAID)
+Farm Monitoring System (MIS)
+Shudokkho (Medicine Information System for animal)
+Wave Foundation (MIS)
+Bangladesh Animal Health Intelligence System (BAHIS)
+Credit Information Bureau (CIB) System for Bank Asia
+Credit Card Fund Transfer and Reports System for Bank Asia
+Passport Verification API, PRAN-RFL Transaction Pool APIs for Bank Asia
+BGDCL Utility Bill Collection System for Bank Asia
+Seize Management System for Rangs Motors
 
 <br><br>
 <h3 align="left">Skills: </h3>
