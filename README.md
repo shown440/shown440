@@ -109,10 +109,10 @@ Ready to elevate your team's success through innovative solutions and collaborat
         <img src="https://github.com/shown440/shown440/blob/main/django.jpg" alt="django" width="150" height="100" title="Django" />
     </a>
     <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer" style="margin: 5px;">
-        <img src="https://www.django-rest-framework.org/img/logo.png" alt="Django REST Framework" width="110" height="100" title="Django REST Framework" />
+        <img src="https://github.com/shown440/shown440/blob/main/django_rest_framework.png" alt="Django REST Framework" width="150" height="100" title="Django REST Framework" />
     </a>
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
-        <img src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png" alt="flask" width="110" height="100" title="Flask" />
+        <img src="https://github.com/shown440/shown440/blob/main/Flask.png" alt="flask" width="110" height="100" title="Flask" />
     </a>
     <a href="#" target="_blank" rel="noreferrer" style="margin: 5px;">
         <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230630120346/What-is-REST-API.png" 
