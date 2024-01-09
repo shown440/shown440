@@ -42,22 +42,22 @@ Previously, I contributed significantly to mPower Social Enterprises Limited, ad
 <br><br>
 <h3 align="left">Projects: </h3>
 I've spearheaded diverse projects, including: 
-Next Generation SESAME (Agriculture Based Decision Support System for stakeholders of RIMES members and affiliated countries)
-FAO Monitoring Reporting and Visualization (MIS for World Food and Agriculture Organization)
-Gobadi e-Hatt (eCommerce site for animal sales)
-SHUFOLA (Smart farming app for farmers)
-Songo-ICCO (eCommerce site rural hawkers)
-GIZ Heal (Applications Management System)
-Training Management Platform for Relief International (USAID)
-Farm Monitoring System (MIS)
-Shudokkho (Medicine Information System for animal)
-Wave Foundation (MIS)
-Bangladesh Animal Health Intelligence System (BAHIS)
-Credit Information Bureau (CIB) System for Bank Asia
-Credit Card Fund Transfer and Reports System for Bank Asia
-Passport Verification API, PRAN-RFL Transaction Pool APIs for Bank Asia
-BGDCL Utility Bill Collection System for Bank Asia
-Seize Management System for Rangs Motors
+<br>Next Generation SESAME (Agriculture Based Decision Support System for stakeholders of RIMES members and affiliated countries)
+<br>FAO Monitoring Reporting and Visualization (MIS for World Food and Agriculture Organization)
+<br>Gobadi e-Hatt (eCommerce site for animal sales)
+<br>SHUFOLA (Smart farming app for farmers)
+<br>Songo-ICCO (eCommerce site rural hawkers)
+<br>GIZ Heal (Applications Management System)
+<br>Training Management Platform for Relief International (USAID)
+<br>Farm Monitoring System (MIS)
+<br>Shudokkho (Medicine Information System for animals)
+<br>Wave Foundation (MIS)
+<br>Bangladesh Animal Health Intelligence System (BAHIS)
+<br>Credit Information Bureau (CIB) System for Bank Asia
+<br>Credit Card Fund Transfer and Reports System for Bank Asia
+<br>Passport Verification API, PRAN-RFL Transaction Pool APIs for Bank Asia
+<br>BGDCL Utility Bill Collection System for Bank Asia
+<br>Seize Management System for Rangs Motors
 
 <br><br>
 <h3 align="left">Skills: </h3>
