@@ -101,6 +101,41 @@ Ready to elevate your team's success through innovative solutions and collaborat
 
 </br>
 <h1 align="left">Languages and Tools:</h1>
+
+<div class="card" style="width: 18rem;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" class="card-img-top" alt="python" style="width: 100%; height: auto;">
+    <div class="card-body">
+        <h5 class="card-title">Python</h5>
+        <p class="card-text">Python is a high-level, interpreted programming language with dynamic semantics and object-oriented programming capabilities.</p>
+        <a href="https://www.python.org" target="_blank" rel="noreferrer" class="btn btn-primary" style="margin: 5px;">Learn More</a>
+    </div>
+</div>
+<div class="card" style="width: 18rem;">
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" class="card-img-top" alt="django" style="width: 100%; height: auto;">
+    <div class="card-body">
+        <h5 class="card-title">Django</h5>
+        <p class="card-text">Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design.</p>
+        <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer" class="btn btn-primary" style="margin: 5px;">Learn More</a>
+    </div>
+</div>
+<div class="card" style="width: 18rem;">
+    <img src="https://www.django-rest-framework.org/img/logo.png" class="card-img-top" alt="Django REST Framework" style="width: 100%; height: auto;">
+    <div class="card-body">
+        <h5 class="card-title">Django REST Framework</h5>
+        <p class="card-text">Django REST Framework is a powerful and flexible toolkit for building Web APIs using Django.</p>
+        <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer" class="btn btn-primary" style="margin: 5px;">Learn More</a>
+    </div>
+</div>
+<div class="card" style="width: 18rem;">
+    <img src="https://www.django-rest-framework.org/img/logo.png" class="card-img-top" alt="Django REST Framework" style="width: 100%; height: auto;">
+    <div class="card-body">
+        <h5 class="card-title">Django REST Framework</h5>
+        <p class="card-text">Django REST Framework is a powerful and flexible toolkit for building Web APIs using Django.</p>
+        <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer" class="btn btn-primary" style="margin: 5px;">Learn More</a>
+    </div>
+</div>
+
+
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin: 5px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="110" height="100" title="Python" />
