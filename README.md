@@ -102,8 +102,8 @@ Ready to elevate your team's success through innovative solutions and collaborat
 </br>
 <h1 align="left">Languages and Tools:</h1>
 <p align="left">
-    <a href="https://angular.io" target="_blank" rel="noreferrer"> <img
-            src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="110" height="100" />
+    <a href="https://angular.io" target="_blank" rel="noreferrer"> 
+        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="110" height="100" title="Angular" />
     </a> 
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
