@@ -101,31 +101,6 @@ Ready to elevate your team's success through innovative solutions and collaborat
 
 </br>
 <h1 align="left">Languages and Tools:</h1>
-<div style="display: flex; justify-content: space-around;">
-    <div style="flex: 0 0 24%; text-align: center; padding: 10px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
-        <h3>Python</h3>
-        <a href="https://www.python.org" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="110" height="100" />
-        </a>
-    </div>
-    <div style="flex: 0 0 24%; text-align: center; padding: 10px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
-        <h3>Django</h3>
-        <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="110" height="100" />
-        </a>
-    </div>
-    <!-- Repeat the above <div> block for two more cards -->
-    <!-- You can change the content of these additional cards as needed -->
-    <div style="flex: 0 0 24%; text-align: center; padding: 10px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
-        <h3>Card 3</h3>
-        <!-- Card 3 content goes here -->
-    </div>
-    <div style="flex: 0 0 24%; text-align: center; padding: 10px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
-        <h3>Card 4</h3>
-        <!-- Card 4 content goes here -->
-    </div>
-</div>
-
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin: 5px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="110" height="100" title="Python" />
