@@ -91,17 +91,17 @@ Ready to elevate your team's success through innovative solutions and collaborat
     <a href="https://linkedin.com/in/shown440" target="blank" style="margin: 10px;">
         <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="shown440" height="200" width="210" />
+            alt="shown440" height="200" width="210" style="padding: 10px;"/>
     </a>
     <a href="https://stackoverflow.com/users/9535966" target="blank" style="margin: 10px;">
         <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-            alt="9535966" height="200" width="210" />
+            alt="9535966" height="200" width="210" style="padding: 10px;"/>
     </a>
     <a href="https://www.leetcode.com/shown440" target="blank" style="margin: 10px;">
         <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-            alt="shown440" height="200" width="210" />
+            alt="shown440" height="200" width="210" style="padding: 10px;"/>
     </a>
 </p>
 
