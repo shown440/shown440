@@ -103,7 +103,7 @@ Ready to elevate your team's success through innovative solutions and collaborat
 <h1 align="left">Languages and Tools:</h1> 
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin: 10px;">
-        <img src="https://github.com/shown440/shown440/blob/main/Python.png" alt="python" width="150" height="100" title="Python" />
+        <img src="https://github.com/shown440/shown440/blob/main/python.png" alt="python" width="150" height="100" title="Python" />
     </a>
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
         <img src="https://github.com/shown440/shown440/blob/main/django.jpg" alt="django" width="150" height="100" title="Django" />
