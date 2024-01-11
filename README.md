@@ -114,20 +114,29 @@ Ready to elevate your team's success through innovative solutions and collaborat
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
         <img src="https://github.com/shown440/shown440/blob/main/django.jpg" alt="django" width="150" height="100" title="Django" />
     </a>
-    <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer" style="margin: 10px;">
+    <a href="https://docs.djangoproject.com/en/5.0/topics/db/queries/" target="_blank" rel="noreferrer" style="margin: 10px;">
         <img src="https://github.com/shown440/shown440/blob/main/django_model_orm.jpg" alt="Django ORM" width="150" height="100" title="Django ORM" />
     </a>
     <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer" style="margin: 10px;">
         <img src="https://github.com/shown440/shown440/blob/main/drf.png" alt="Django REST Framework" width="150" height="100" title="Django REST Framework" />
     </a>
-    <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer" style="margin: 10px;">
+    <a href="https://www.django-rest-framework.org/api-guide/serializers/" target="_blank" rel="noreferrer" style="margin: 10px;">
         <img src="https://github.com/shown440/shown440/blob/main/Django-Serializer.jpg" alt="Django Serializers" width="150" height="100" title="Django Serializers" />
     </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin: 10px;">
+        <img src="https://github.com/shown440/shown440/blob/main/10_js.png" alt="JavaScript" width="150" height="100" title="JavaScript" />
+    </a>
+    <a href="https://nodejs.org/en" target="_blank" rel="noreferrer" style="margin: 10px;">
         <img src="https://github.com/shown440/shown440/blob/main/node_js.jpg" alt="Node.js" width="150" height="100" title="Node.js" />
     </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
+    <a href="https://expressjs.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
         <img src="https://github.com/shown440/shown440/blob/main/express_js.png" alt="Express.js" width="150" height="100" title="Express.js" />
+    </a>
+    <a href="https://sequelize.org/" target="_blank" rel="noreferrer" style="margin: 10px;">
+        <img src="https://github.com/shown440/shown440/blob/main/12_sequelize_orm.png" alt="Sequelize ORM" width="150" height="100" title="Sequelize ORM" />
+    </a>
+    <a href="https://www.npmjs.com/package/yup" target="_blank" rel="noreferrer" style="margin: 10px;">
+        <img src="https://github.com/shown440/shown440/blob/main/14_yup_js_schema_validation.png" alt="Yup is a schema builder for runtime value parsing and validation" width="150" height="100" title="Yup is a schema builder for runtime value parsing and validation" />
     </a>
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
         <img src="https://github.com/shown440/shown440/blob/main/Flask.png" alt="flask" width="150" height="100" title="Flask" />
