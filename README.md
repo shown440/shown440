@@ -109,6 +109,12 @@ Ready to elevate your team's success through innovative solutions and collaborat
         <img src="https://github.com/shown440/shown440/blob/main/django.jpg" alt="django" width="150" height="100" title="Django" />
     </a>
     <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer" style="margin: 10px;">
+        <img src="https://github.com/shown440/shown440/blob/main/drf.png" alt="Django ORM" width="150" height="100" title="Django ORM" />
+    </a>
+    <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer" style="margin: 10px;">
+        <img src="https://github.com/shown440/shown440/blob/main/drf.png" alt="Django Serializers" width="150" height="100" title="Django Serializers" />
+    </a>
+    <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer" style="margin: 10px;">
         <img src="https://github.com/shown440/shown440/blob/main/drf.png" alt="Django REST Framework" width="150" height="100" title="Django REST Framework" />
     </a>
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
