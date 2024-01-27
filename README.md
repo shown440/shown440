@@ -135,6 +135,9 @@ Ready to elevate your team's success through innovative solutions and collaborat
     <a href="https://expressjs.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
         <img src="https://github.com/shown440/shown440/blob/main/express_js.png" alt="Express.js" width="150" height="100" title="Express.js" />
     </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="margin: 10px;">
+        <img src="https://github.com/shown440/shown440/blob/main/21_Type_script.png" alt="Express.js" width="150" height="100" title="TypeScript" />
+    </a>
     <a href="https://sequelize.org/" target="_blank" rel="noreferrer" style="margin: 10px;">
         <img src="https://github.com/shown440/shown440/blob/main/12_sequelize_orm.png" alt="Sequelize ORM" width="150" height="100" title="Sequelize ORM" />
     </a>
