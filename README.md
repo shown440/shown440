@@ -171,6 +171,15 @@ Ready to elevate your team's success through innovative solutions and collaborat
     <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer" style="margin: 10px;">
         <img src="https://github.com/shown440/shown440/blob/main/mysql_db.png" alt="MySQL" width="150" height="100" title="MySQL" />
     </a>
+    <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer" style="margin: 10px;">
+        <img src="https://github.com/shown440/shown440/blob/main/17_html5.jpg" alt="MySQL" width="150" height="100" title="HTML" />
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="margin: 10px;">
+        <img src="https://github.com/shown440/shown440/blob/main/18_CSS3.png" alt="MySQL" width="150" height="100" title="CSS" />
+    </a>
+    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
+        <img src="https://github.com/shown440/shown440/blob/main/19_bootstrap.jpg" alt="MySQL" width="150" height="100" title="Bootstrap" />
+    </a>
     <a href="https://angular.io" target="_blank" rel="noreferrer" style="margin: 5px;">
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="110" height="100" title="Angular" />
     </a>
