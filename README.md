@@ -165,6 +165,9 @@ Ready to elevate your team's success through innovative solutions and collaborat
     <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer" style="margin: 10px;">
         <img src="https://github.com/shown440/shown440/blob/main/oracle_db.png" alt="Oracle SQL" width="150" height="100" title="Oracle SQL" />
     </a>
+    <a href="https://www.oracle.com/database/technologies/appdev/plsql.html" target="_blank" rel="noreferrer" style="margin: 10px;">
+        <img src="https://github.com/shown440/shown440/blob/main/22_oracle_pl_sql.png" alt="Oracle SQL" width="150" height="100" title="Oracle PL/SQL" />
+    </a>
     <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer" style="margin: 10px;">
         <img src="https://github.com/shown440/shown440/blob/main/mysql_db.png" alt="MySQL" width="150" height="100" title="MySQL" />
     </a>
