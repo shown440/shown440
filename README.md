@@ -147,6 +147,9 @@ Ready to elevate your team's success through innovative solutions and collaborat
     <a href="#" target="_blank" rel="noreferrer" style="margin: 10px;">
         <img src="https://github.com/shown440/shown440/blob/main/REST-API.png" alt="RESTful API" width="150" height="100" title="RESTful API" />
     </a>
+    <a href="https://jwt.io/" target="_blank" rel="noreferrer" style="margin: 10px;">
+        <img src="https://github.com/shown440/shown440/blob/main/16_JWT.png" alt="RESTful API" width="150" height="100" title="JWT Token System" />
+    </a>
     <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer" style="margin: 10px;">
         <img src="https://github.com/shown440/shown440/blob/main/sql.jpeg" alt="SQL" width="150" height="100" title="SQL" />
     </a>
